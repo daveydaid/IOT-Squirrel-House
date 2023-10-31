@@ -1,5 +1,7 @@
 # IOT-Squirrel-House
 
+`***** A work in progress ***** ` 
+
 Custom build for monitoring a squirrel feeder
 
 ![](other/Render_2.jpg)
