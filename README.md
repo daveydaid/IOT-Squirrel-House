@@ -1,6 +1,6 @@
 # IOT-Squirrel-House
 
-Custom build for video monitoring a squirrel feeder
+Custom build for a motion-triggered, video-monitored squirrel feeder. Driven by ESP32 connected to Home Assistant OS.
 
 ![](other/Concept.jpg)
 
@@ -8,6 +8,6 @@ Custom build for video monitoring a squirrel feeder
 
 ![](other/sw_diag_v2.jpg)
 
-# See Detailed Blog Post:
+# See Blog Post for Detailed Build Steps:
 
 https://davidmcdaid.wordpress.com/
