@@ -1,15 +1,13 @@
 # IOT-Squirrel-House
 
-`***** A work in progress ***** ` 
+Custom build for video monitoring a squirrel feeder
 
-Custom build for monitoring a squirrel feeder
-
-![](other/Render_2.jpg)
+![](other/Concept.jpg)
 
 ![](other/sys_diag_v3.jpg)
 
 ![](other/sw_diag_v2.jpg)
 
-# Blog:
+# See Detailed Blog Post:
 
 https://davidmcdaid.wordpress.com/
